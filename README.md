@@ -1,0 +1,1 @@
+This repo contains code for a Mixed Probabilistic Circuit - Convolutional NN architecture. The network was trained on the MNIST dataset. We performed some experiments, comparing the Mixed architecture to baseline models. More info in the paper.
